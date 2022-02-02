@@ -7,6 +7,9 @@
     <title>Dischi</title>
 </head>
 <body>
+    <!-- Header -->
+    <?php include_once __DIR__ . '/partials/header.php' ?>
+    <!-- /Header -->
     
 </body>
 </html>
