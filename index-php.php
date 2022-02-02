@@ -15,7 +15,9 @@
     <!-- /Header -->
 
     <!-- Main -->
-    <?php include_once __DIR__ . '/partials/cards.php' ?>
+    <main>
+        <?php include_once __DIR__ . '/partials/cards.php' ?>
+    </main>
     <!-- /Main -->
 </body>
 </html>

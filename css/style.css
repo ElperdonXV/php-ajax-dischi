@@ -17,6 +17,10 @@ header img{
     height: 40px;
 }
 
+main{ 
+    background-color: #1E2D3B;
+}
+
 .card{
     border-radius: 0px;
     background-color: #2E3A46;
