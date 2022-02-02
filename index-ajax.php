@@ -19,7 +19,7 @@
     <main id="app">
         <div class="container p-5">
             <div class="row row-col-5 cards g-3">
-                <div v-for="(card in cards)" class="col-2 m-3 p-3 text-center border-0 card">
+                <div v-for="card in cards" class="col-2 m-3 p-3 text-center border-0 card">
                     <img class="mb-3" :src="card.poster" alt="">
                     <h2>{{card.title}}</h2>
                     <h3>{{card.author}}</h3>
